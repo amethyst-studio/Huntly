@@ -25,7 +25,7 @@ public abstract class UWindowModule : Window, IDisposable
 
   private void AddMainWindowCommand()
   {
-    SystemService.Commands.AddHandler($"/{name}", new CommandInfo(
+    SystemService.Commands.AddHandler($"/{name.ToLower()}", new CommandInfo(
         (command, args) =>
         {
           ToggleWindow();
@@ -50,6 +50,6 @@ public abstract class UWindowModule : Window, IDisposable
   public void Dispose()
   {
     EDispose();
-    SystemService.Commands.RemoveHandler($"/{name}");
+    SystemService.Commands.RemoveHandler($"/{name.ToLower()}");
   }
 }

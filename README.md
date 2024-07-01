@@ -37,7 +37,9 @@ Eg: `Urqopacha : Mad Maguey : 19.3 : 14.0` would be updated to `Urqopacha : Mad 
 6. Search for "Huntly" by xCykrix.
 7. Install the Plugin!
 
-You can now do "/huntly" in chat to open the Main Window.
+You can now do a main command in chat to open the Main Window. I recommend doing this in Alliance Chat or Tell to avoid accidental bleeds of commands.
+
+- /scout
 
 ## Development
 
