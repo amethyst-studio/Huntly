@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "xCykrix",
+    "Name": "Huntly",
+    "InternalName": "Huntly",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "An advanced Scouting and Hunt Conductor all-in-one tool for the masses. Created for the wonderful community and those who hate using multiple finniky plugins to achieve a common task.",
+    "CategoryTags": [
+      "UI",
+      "Utility"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "The Definitive Final Fantasy Hunt Train Assistant for XIVLauncher.",
+    "IsTestingExclusive": "False",
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1719805509,
+    "DownloadLinkInstall": "https://github.com/xCykrix/Huntly/releases/download/v1.0.0.0-Beta1/Huntly.zip",
+    "DownloadLinkTesting": "https://github.com/xCykrix/Huntly/releases/download/v1.0.0.0-Beta1/Huntly.zip",
+    "DownloadLinkUpdate": "https://github.com/xCykrix/Huntly/releases/download/v1.0.0.0-Beta1/Huntly.zip"
+  }
+]
