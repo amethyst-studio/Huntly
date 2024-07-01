@@ -31,7 +31,7 @@ Eg: `Urqopacha : Mad Maguey : 19.3 : 14.0` would be updated to `Urqopacha : Mad 
 2. Navigate to the "Experimental" Tab.
 3. Scroll to 'Custom Plugin Repositories".
 4. Add (below) and click the "+" to the far right.
-    - `https://...TODO.../`
+    - `https://raw.githubusercontent.com/xCykrix/Huntly/main/repo.json`
 5. Navigate to XIVLauncher Plugins.
     - Protip! Do `/xlplugins` to reach this via chat.
 6. Search for "Huntly" by xCykrix.
