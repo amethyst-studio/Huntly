@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huntly", "Huntly\Huntly.csproj", "{A10A0F1F-E5A8-42F8-AC4A-C11011BA66AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huntly", "Huntly.csproj", "{A10A0F1F-E5A8-42F8-AC4A-C11011BA66AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,9 @@ Global
 		{A10A0F1F-E5A8-42F8-AC4A-C11011BA66AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A10A0F1F-E5A8-42F8-AC4A-C11011BA66AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A10A0F1F-E5A8-42F8-AC4A-C11011BA66AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A504482-16D1-4C0E-A6B1-7E47A56838A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A504482-16D1-4C0E-A6B1-7E47A56838A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A504482-16D1-4C0E-A6B1-7E47A56838A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A504482-16D1-4C0E-A6B1-7E47A56838A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
