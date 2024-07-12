@@ -1,7 +1,7 @@
 
 public static class ListExtension
 {
-  public static void Move<T>(this IList<T> List, int Position, MoveDirection Direction)
+  public static void DalamudCoreMoveListItem<T>(this IList<T> List, int Position, MoveDirection Direction)
   {
     int Modifier = Direction == MoveDirection.Up ? -1 : +1;
     int Positional = Position + Modifier;
